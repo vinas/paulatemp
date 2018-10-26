@@ -1,0 +1,126 @@
+body {
+    background-color: #fff;
+    color: #000;
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+}
+
+td {
+    padding: 5px;
+}
+
+.background {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header {
+    color: #fff;
+    width: 80%;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.body {
+    color: #000;
+    width: 80%;
+    height: 329px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu {
+    background-color: #ccc;
+    color: #fff;
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+
+.container {
+    width: 73%;
+    height: 100%;
+    float: left;
+    text-align: left;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.footer {
+    width: 80%;
+    height: 30px;
+    padding-top: 8px;
+    background-color: #ccc;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    display: inline;
+}
+
+.nome-empresa {
+    display: inline;
+    padding-left: 30px;
+    font-size: 60px;
+    color: #000;
+    position: absolute;
+    top: 20px;
+}
+
+.menu-item {
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.menu-item:hover, .on {
+    background-color: #000;
+    color: #fff;
+}
+
+.off {
+    background-color: #fff;
+    color: #000;
+}
+
+.left-info {
+    float: left;
+    padding-left: 10px;
+}
+
+.social-medias {
+    float: right;
+    padding-right: 10px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.description {
+    font-size: 20px;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.table-title {
+    color: #fff;
+    background-color: #000;
+}
